@@ -9,5 +9,5 @@ With it, you can create:
 * Network graph for visualizing matches
 * Word clouds for user-defined group names
 
-Detailed description of how to use the script - https:/uxrozum.com/en/post/cardsorting/
+Detailed description of how to use the script - [https:/uxrozum.com/en/post/cardsorting/](https:/uxrozum.com/en/post/cardsorting/)
 
